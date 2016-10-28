@@ -1,3 +1,5 @@
 body {
-    background-image: images/spacebackground.jpg;
+    background-image: url("images/spacebackground.jpg");
+    background-repeat: repeat;
+    background-size: cover;
 }
