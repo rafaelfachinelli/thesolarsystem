@@ -1,0 +1,19 @@
+** COMANDOS **
+
+Trocar de branch: git checkout aonde_quero_ir
+Criar branch : git checkout -b nome_branch
+
+Enviar branch (sequência): 
+git status, 
+git add -A,
+git status,
+git commit -m "mensagem",
+git status,
+git push
+
+Fazer pull request no github.com
+Aceitar pull request no github.com
+
+** MASTER **
+
+Atualizar: git pull origin master

@@ -1,29 +1,36 @@
 <!DOCTYPE html>
 <html>
-    <head>
+    <head lang="pt-br">
+        <meta charset="utf-8">
         <title>The Solar System</title>
         <link rel="shortcut icon" href="images/favicon.png">
-        <meta charset="utf-8">
-        <link rel="stylesheet" type="text/css" href="style.css">
+        <link rel="stylesheet" type="text/css" href="css/layout.css">
+        <link rel="stylesheet" type="text/css" href="lib/bootstrap/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     </head>
     <body>
-        <section class="cabecalho">
-            <nav class="menuPlanetas">
-                <img id="sol" src="images/planets/0_sol.png">
-                <img src="images/planets/mini/1_mercurio.png">
-                <img src="images/planets/mini/2_venus.png">
-                <img src="images/planets/mini/3.1_terra.png">
-                <img src="images/planets/mini/3.2_lua.png">
-                <img src="images/planets/mini/4_marte.png">
-                <img src="images/planets/mini/5_jupiter.png">
-                <img src="images/planets/mini/6_saturno.png">
-                <img src="images/planets/mini/7_urano.png">
-                <img src="images/planets/mini/8_netuno.png">
-            </nav>
-            <div class="intro">
-                
-            </div>
-        </section>
+        <div class="container-fluid">
+            <section id="cabecalho" class="row">
+                <nav id="menuPlanetas" class="pull-left col-md-6">
+                    <img id="sol" class="img-responsive" src="images/planets/0_sol.png">
+                    <!--
+                    <img src="images/planets/mini/1_mercurio.png">
+                    <img src="images/planets/mini/2_venus.png">
+                    <img src="images/planets/mini/3.1_terra.png">
+                    <img src="images/planets/mini/3.2_lua.png">
+                    <img src="images/planets/mini/4_marte.png">
+                    <img src="images/planets/mini/5_jupiter.png">
+                    <img src="images/planets/mini/6_saturno.png">
+                    <img src="images/planets/mini/7_urano.png">
+                    <img src="images/planets/mini/8_netuno.png">
+                    -->
+                </nav>
+                <div id="intro" class="pull-right col-md-6">
+                    <h1 class="text-center">The Solar System</h1>
+                    <p class="text-center">Aqui você vai conhecer detalhes e curiosidades dos planetas de nosso Sistema Solar de forma dinâmica e intuitiva.</p>
+                </div>
+            </section>
+        </div>
         
         <!-- Mercurio --> 
         <section class="planetas">
