@@ -5,34 +5,35 @@
         <title>The Solar System</title>
         <link rel="shortcut icon" href="img/favicon.png">
         <link rel="stylesheet" type="text/css" href="css/layout.css">
-        <!-- Bootstrap -->
-        <!-- Latest compiled and minified CSS -->
+            <!-- Bootstrap -->
+            <!-- Latest compiled and minified CSS -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-        <!-- Optional theme -->
+            <!-- Optional theme -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
-        <!-- Latest compiled and minified JavaScript -->
+            <!-- Latest compiled and minified JavaScript -->
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-        <!-- Jquery-->
+            <!-- Jquery-->
         <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
   
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"> -->
     </head>
     <body>
         <div class="container-fluid">
             <section id="cabecalho" class="row">
                 <nav id="menuPlanetas" class="pull-left col-md-6">
                     <img id="sol" class="img-responsive" src="img/planets/0_sol.png">
-                    <!--
+                    
                     <img src="img/planets/mini/1_mercurio.png">
                     <img src="img/planets/mini/2_venus.png">
                     <img src="img/planets/mini/3.1_terra.png">
-                    <img src="img/planets/mini/3.2_lua.png">
+                   <!-- <img src="img/planets/mini/3.2_lua.png">-->
                     <img src="img/planets/mini/4_marte.png">
                     <img src="img/planets/mini/5_jupiter.png">
                     <img src="img/planets/mini/6_saturno.png">
                     <img src="img/planets/mini/7_urano.png">
                     <img src="img/planets/mini/8_netuno.png">
-                    -->
+                    <img src="img/planets/mini/9_plutao.png">
+                    
                 </nav>
                 <div id="intro" class="pull-right col-md-6">
                     <h1 class="text-center">The Solar System</h1>
@@ -44,10 +45,10 @@
         <!-- Mercurio --> 
         <section class="planetas">
             <div class="planetaTag">
-                <img class="imgplanet" src="img/planets/1_mercurio.png">
+                <img class="imgplanet" id="mercurio" src="img/planets/1_mercurio.png">
             </div>
             <article class="desc">
-                <h2></h2>
+                <h2>Mercúrio</h2>
                 <p></p>
             </article>
         </section>
@@ -55,10 +56,10 @@
         <!-- Venus --> 
         <section class="planetas">
             <div class="planetaTag">
-                <img class="imgplanet" src="img/planets/2_venus.png">
+                <img class="imgplanet" id="venus" src="img/planets/2_venus.png">
             </div>
             <article class="desc">
-                <h2></h2>
+                <h2>Vênus</h2>
                 <p></p>
             </article>
         </section>
@@ -66,10 +67,11 @@
         <!-- Terra --> 
         <section class="planetas">
             <div class="planetaTag">
-                <img class="imgplanet" src="img/planets/3.1_terra.png">
+                <img class="imgplanet" id="terra" src="img/planets/3.1_terra.png">
+                <img class="imgplanet" id="lua" src="img/planets/mini/3.2_lua.png">
             </div>
             <article class="desc">
-                <h2></h2>
+                <h2>Terra</h2>
                 <p></p>
             </article>
         </section>
@@ -77,10 +79,10 @@
         <!-- Marte --> 
         <section class="planetas">
             <div class="planetaTag">
-                <img class="imgplanet" src="img/planets/4_marte.png">
+                <img class="imgplanet" id="marte" src="img/planets/4_marte.png">
             </div>
             <article class="desc">
-                <h2></h2>
+                <h2>Marte</h2>
                 <p></p>
             </article>
         </section>
@@ -88,10 +90,10 @@
         <!-- Jupiter --> 
         <section class="planetas">
             <div class="planetaTag">
-                <img class="imgplanet" src="img/planets/5_jupiter.png">
+                <img class="imgplanet" id="jupiter" src="img/planets/5_jupiter.png">
             </div>
             <article class="desc">
-                <h2></h2>
+                <h2>Júpiter</h2>
                 <p></p>
             </article>
         </section>
@@ -99,10 +101,10 @@
         <!-- Saturno --> 
         <section class="planetas">
             <div class="planetaTag">
-                <img class="imgplanet" src="img/planets/6_saturno.png">
+                <img class="imgplanet" id="saturno" src="img/planets/6_saturno.png">
             </div>
             <article class="desc">
-                <h2></h2>
+                <h2>Saturno</h2>
                 <p></p>
             </article>
         </section>
@@ -110,10 +112,10 @@
         <!-- Urano --> 
         <section class="planetas">
             <div class="planetaTag">
-                <img class="imgplanet" src="img/planets/7_urano.png">
+                <img class="imgplanet" id="urano" src="img/planets/7_urano.png">
             </div>
             <article class="desc">
-                <h2></h2>
+                <h2>Urano</h2>
                 <p></p>
             </article>
         </section>
@@ -121,10 +123,10 @@
         <!-- Netuno --> 
         <section class="planetas">
             <div class="planetaTag">
-                <img class="imgplanet" src="img/planets/8_netuno.png">
+                <img class="imgplanet" id="netuno" src="img/planets/8_netuno.png">
             </div>
             <article class="desc">
-                <h2></h2>
+                <h2>Netuno</h2>
                 <p></p>
             </article>
         </section>
@@ -132,10 +134,10 @@
         <!-- Plutao --> 
         <section class="planetas">
             <div class="planetaTag">
-                <img class="imgplanet" src="img/planets/9_plutao.png">
+                <img class="imgplanet" id="plutao" src="img/planets/9_plutao.png">
             </div>
             <article class="desc">
-                <h2></h2>
+                <h2>Plutão</h2>
                 <p></p>
             </article>
         </section>
