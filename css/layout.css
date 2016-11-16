@@ -1,29 +1,9 @@
 body {
     background-image: url("../img/spacebackground.jpg");
-    width: 1024px;
-    margin: 0 auto;
+    width: 1560px;
 }
 
-/* CSS IMAGENS */
-
-#plutao {
-    width: 300px;
-    height: 300px;
-}
-
-.imgplanet #lua {
-    width: 40px;
-    height: 40px;
-}
-
-p {
-    color: white;
-    text-align: justify;
-}
-
-h2 {
-    color: white;
-}
+/* ALINHAMENTO */
 
 .planetaTag {
     float: left;
@@ -31,4 +11,20 @@ h2 {
 
 .planetaTagD {
     float: right;
+}
+
+p {
+    color: #bdc3c7;
+    text-align: justify;
+}
+
+h2, h3 {
+    text-align: center;
+    color: #000000;
+}
+
+.tituloplaneta {
+    color: #95a5a6;
+    font-size: 40px;
+    text-shadow: rgba(255, 255, 255, .5);
 }
