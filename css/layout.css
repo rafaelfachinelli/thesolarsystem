@@ -1,6 +1,7 @@
 body {
-   background-image: url("../img/spacebackground.jpg");
-    color: red;
+    background-image: url("../img/spacebackground.jpg");
+    width: 1024px;
+    margin: 0 auto;
 }
 
 /* CSS IMAGENS */
@@ -13,4 +14,21 @@ body {
 .imgplanet #lua {
     width: 40px;
     height: 40px;
+}
+
+p {
+    color: white;
+    text-align: justify;
+}
+
+h2 {
+    color: white;
+}
+
+.planetaTag {
+    float: left;
+}
+
+.planetaTagD {
+    float: right;
 }
