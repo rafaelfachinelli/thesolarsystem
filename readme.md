@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="The Solar System" src=".github/banner.svg" width="200px"/>
+  <img alt="The Solar System" src=".github/banner.svg" width="250px"/>
 <p>
 
 NOME: Rafael Lima Amaral Fachinelli TIA: 31653278 TURMA: 02L12
