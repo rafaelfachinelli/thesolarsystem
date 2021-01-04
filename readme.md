@@ -83,11 +83,11 @@ Thanks to all these wonderful people:
     </td>
     <td align="center">
       <a href="https://github.com/WallyssonChristian">
-        <img src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4" width="100px;" alt="Image Profile Wallysson Christian"/><br />
-        <sub><b>Rafael Fachinelli</b></sub>
+        <img src="https://avatars0.githubusercontent.com/u/21178527?s=460&u=fe8ac77430f6663ba06e40b5dc8f96298df218de&v=4" width="100px;" alt="Image Profile Wallysson Christian"/><br />
+        <sub><b>Wallysson Christian</b></sub>
       </a>
       <br/>
-      <a href="https://github.com/WallyssonChristian" title="GitHub"><img src="https://avatars0.githubusercontent.com/u/21178527?s=460&u=fe8ac77430f6663ba06e40b5dc8f96298df218de&v=4"/></a>
+      <a href="https://github.com/WallyssonChristian" title="GitHub"><img src="https://simpleicons.org/icons/github.svg"/></a>
     </td>
   </tr>
 </table>
