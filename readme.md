@@ -16,7 +16,7 @@
  <a href="#computer-sobre">Sobre</a> •
  <a href="#memo-roteiro">Roteiro</a> •
  <a href="#hammer-tecnologias">Tecnologias</a> •
- <a href="#boy-autor">Autor</a> •
+ <a href="#muscle-contribuidores">Contribuidores</a> •
  <a href="#page_facing_up-licença">Licença</a>
 </p>
 
@@ -61,9 +61,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 </div>
 
 ---
-## :muscle: **Contributors**
-
-Thanks to all these wonderful people:
+## :muscle: **Contribuidores**
 
 <div align="center">
 
@@ -87,7 +85,7 @@ Thanks to all these wonderful people:
         <sub><b>Wallysson Christian</b></sub>
       </a>
       <br/>
-      <a href="https://github.com/WallyssonChristian" title="GitHub"><img src="https://simpleicons.org/icons/github.svg"/></a>
+      <a href="https://github.com/WallyssonChristian" title="GitHub"><img src="https://simpleicons.org/icons/github.svg" width="20px"/></a>
     </td>
   </tr>
 </table>
