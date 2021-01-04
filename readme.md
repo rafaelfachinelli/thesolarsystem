@@ -61,22 +61,39 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 </div>
 
 ---
-## :boy: **Autor**
+## :muscle: **Contributors**
+
+Thanks to all these wonderful people:
 
 <div align="center">
 
-<a href="https://github.com/rafaelfachinelli">
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/19878139?s=460&u=278a6f44f49af3c8edb13a811f7654dfe6e89341&v=4" width="100px;" alt="Foto de Perfil Rafael Fachinelli"/>
- <br />
- <sub><b>Rafael Fachinelli</b></sub></a>
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/rafaelfachinelli">
+        <img src="https://avatars2.githubusercontent.com/u/19878139?s=460&u=363cb967c17e13003de2cbb894771bbb51ac2eb1&v=4" width="100px;" alt="Image Profile Rafael Fachinelli"/><br />
+        <sub><b>Rafael Fachinelli</b></sub>
+      </a>
+      <br/>
+      <a href="https://www.linkedin.com/in/rafaelfachinelli" title="LinkedIn"><img src="https://simpleicons.org/icons/linkedin.svg" width="20px"/></a>
+      <a href="https://github.com/rafaelfachinelli" title="GitHub"><img src="https://simpleicons.org/icons/github.svg" width="20px"/></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/WallyssonChristian">
+        <img src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4" width="100px;" alt="Image Profile Wallysson Christian"/><br />
+        <sub><b>Rafael Fachinelli</b></sub>
+      </a>
+      <br/>
+      <a href="https://github.com/WallyssonChristian" title="GitHub"><img src="https://avatars0.githubusercontent.com/u/21178527?s=460&u=fe8ac77430f6663ba06e40b5dc8f96298df218de&v=4"/></a>
+    </td>
+  </tr>
+</table>
 
-Feito com ❤️ por Rafael Fachinelli 👋🏽 Entre em contato!
-
-[![Linkedin Badge](https://img.shields.io/badge/-Rafael_Fachinelli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelfachinelli/)](https://www.linkedin.com/in/rafaelfachinelli/)
-[![Github Badge](https://img.shields.io/badge/-rafaelfachinelli-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rafaelfachinelli)](https://github.com/rafaelfachinelli)
-[![Itch.io Badge](https://img.shields.io/badge/-rafaelfachinelli-FA5C5C?style=flat-square&logo=itch.io&logoColor=white&link=https://rafael-fachinelli.itch.io/)](https://rafael-fachinelli.itch.io/)
-[![Outlook Badge](https://img.shields.io/badge/-rafael.fachinelli@fatec.sp.gov.br-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:rafael.fachinelli@fatec.sp.gov.br)](mailto:rafael.fachinelli@fatec.sp.gov.br)
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
 
 </div>
 
