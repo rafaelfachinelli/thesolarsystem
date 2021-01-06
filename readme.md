@@ -32,6 +32,10 @@
 
 Projeto desenvolvivo para ter os primeiros contatos com HTML e CSS para desenvolvimento de sites na Universidade Presbiteriana Mackenzie.
 
+Este site reune informações de planetas do sistema solar, apesar de simples os conteúdos e seu design são uma paixão dos seus desenvolvedores.
+
+Não será refeito nem modificado para manter as lembranças.
+
 ---
 ## :memo: **Roteiro**
 
