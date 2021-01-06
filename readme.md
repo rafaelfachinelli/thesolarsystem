@@ -30,7 +30,7 @@
 ---
 ## :computer: Sobre
 
-...
+Projeto desenvolvivo para ter os primeiros contatos com HTML e CSS para desenvolvimento de sites na Universidade Presbiteriana Mackenzie.
 
 ---
 ## :memo: **Roteiro**
