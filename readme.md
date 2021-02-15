@@ -104,7 +104,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 
 <div align="center">
 
-Copyright © 2020 [Rafael Fachinelli](https://github.com/rafaelfachinelli).<br />
+Copyright © 2021 [Rafael Fachinelli](https://github.com/rafaelfachinelli).<br />
 Este projeto é licenciado pelo [MIT](./LICENSE).
 
 </div>
