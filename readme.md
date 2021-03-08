@@ -85,7 +85,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
     </td>
     <td align="center">
       <a href="https://github.com/WallyssonChristian">
-        <img src="https://avatars0.githubusercontent.com/u/21178527?s=460&u=fe8ac77430f6663ba06e40b5dc8f96298df218de&v=4" width="100px;" alt="Image Profile Wallysson Christian"/><br />
+        <img src="https://github.com/rafaelfachinelli.png" width="100px;" alt="Image Profile Wallysson Christian"/><br />
         <sub><b>Wallysson Christian</b></sub>
       </a>
       <br/>
